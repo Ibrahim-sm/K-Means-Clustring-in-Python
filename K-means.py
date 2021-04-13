@@ -69,7 +69,7 @@ data = [[31096531, 61836, 564134],
         [661, 0, 1]
         ]
 n_clusters = 3
-centroids = [[12664058, 86704, 317936], [976598, 4880, 22926], [775, 0, 1]]
+centroids = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]  # write the centroids here
 iteration = 0
 while 1:
     prevCentroids = centroids[0:3]
